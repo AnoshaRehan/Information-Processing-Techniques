@@ -1,0 +1,4 @@
+Question No 5: Write a program that compares the performance of the above DynamicList with C# array, ArrayList and List<int>.
+a) Populate the collections by generating 2M (two million) random values
+b) Carry out traversal and find the sum of the element values. Print the sum and the time required to carry out the traversal in each case.
+c) Search five randomly chosen values from each of the collection by calling the IndexOf() function and compare response times.

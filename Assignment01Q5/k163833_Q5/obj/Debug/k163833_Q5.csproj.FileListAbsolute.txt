@@ -1,0 +1,7 @@
+C:\Users\New\source\repos\k163833_Q5\k163833_Q5\bin\Debug\k163833_Q5.exe.config
+C:\Users\New\source\repos\k163833_Q5\k163833_Q5\bin\Debug\k163833_Q5.exe
+C:\Users\New\source\repos\k163833_Q5\k163833_Q5\bin\Debug\k163833_Q5.pdb
+C:\Users\New\source\repos\k163833_Q5\k163833_Q5\obj\Debug\k163833_Q5.csprojAssemblyReference.cache
+C:\Users\New\source\repos\k163833_Q5\k163833_Q5\obj\Debug\k163833_Q5.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\k163833_Q5\k163833_Q5\obj\Debug\k163833_Q5.exe
+C:\Users\New\source\repos\k163833_Q5\k163833_Q5\obj\Debug\k163833_Q5.pdb
