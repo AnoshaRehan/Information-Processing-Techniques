@@ -1,0 +1,55 @@
+﻿Installing assembly 'C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe
+Uninstalling assembly 'C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe
+Uninstalling assembly 'C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q3\k163833_Q3\bin\Debug\k163833_Q3.exe
