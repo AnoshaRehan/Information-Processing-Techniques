@@ -1,0 +1,5 @@
+Question No 3: Array Comparison
+Write a program that compares the performance of the C# array, ArrayList and List<int>.
+1. Generate 2M (two million) random values.
+2. For each of the collections, find the sum of all of the elements and print the sum and the response time for the traversal.
+3. Search 5 random values using Binary Search on ArrayList and List<int> and compare response timing.
