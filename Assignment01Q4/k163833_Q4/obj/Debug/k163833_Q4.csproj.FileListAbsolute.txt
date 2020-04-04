@@ -1,0 +1,7 @@
+C:\Users\New\source\repos\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe.config
+C:\Users\New\source\repos\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+C:\Users\New\source\repos\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.pdb
+C:\Users\New\source\repos\k163833_Q4\k163833_Q4\obj\Debug\k163833_Q4.csprojAssemblyReference.cache
+C:\Users\New\source\repos\k163833_Q4\k163833_Q4\obj\Debug\k163833_Q4.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\k163833_Q4\k163833_Q4\obj\Debug\k163833_Q4.exe
+C:\Users\New\source\repos\k163833_Q4\k163833_Q4\obj\Debug\k163833_Q4.pdb

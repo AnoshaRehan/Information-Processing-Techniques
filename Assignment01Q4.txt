@@ -1,0 +1,7 @@
+Question No 4: DynamicList
+Write a customized array by implementing the IList interface. In this question, you would not use the ArrayList or List collections.
+• DynamicList would not allow inheritance.
+• DynamicList would allow any type of data to be inserted into the list (string, int, etc), though only one can be used at one time.
+• Implement all of the methods in IList.
+• It would have a function named “DisplayAll” to display all elements present in the list.
+• It would have a function “Find” which accepts one parameter and will return true if the value is found else false.
