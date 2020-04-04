@@ -1,0 +1,6 @@
+Question No 6: Bubble Sort
+You already know how bubble sort works by comparing adjacent elements. In this 
+question you have to write a class library which has a class “Bubble Sort” with 
+a function “Sort”. Using pointers in C#, implement bubble sort which can sort 
+array of any size. For simplicity purpose, the array will always be of integer 
+data type.
