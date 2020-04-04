@@ -1,0 +1,65 @@
+﻿Installing assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
+Installing service Service2...
+Service Service2 has been successfully installed.
+Creating EventLog source Service2 in log Application...
+Committing assembly 'C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.InstallLog
+   assemblypath = C:\Users\New\Desktop\k163833\k163833_Q4\k163833_Q4\bin\Debug\k163833_Q4.exe
