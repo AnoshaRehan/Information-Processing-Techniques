@@ -1,0 +1,10 @@
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\obj\Debug\k163833_Q2.csprojAssemblyReference.cache
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\obj\Debug\k163833_Q2.Form1.resources
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\obj\Debug\k163833_Q2.Properties.Resources.resources
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\obj\Debug\k163833_Q2.csproj.GenerateResource.cache
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\obj\Debug\k163833_Q2.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\bin\Debug\k163833_Q2.exe.config
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\bin\Debug\k163833_Q2.exe
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\bin\Debug\k163833_Q2.pdb
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\obj\Debug\k163833_Q2.exe
+C:\Users\New\Desktop\k163833\k163833_Q2\k163833_Q2\obj\Debug\k163833_Q2.pdb
